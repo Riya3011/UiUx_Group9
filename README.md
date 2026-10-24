@@ -30,11 +30,3 @@ Medsy focuses on the main journey a pharmacy user needs: finding the right medic
 Usability testing with Microsoft Clarity showed that real behaviour can be studied easily with one tracking script. The click, scroll and attention heatmaps showed that users mostly used the side menu and the Search Medicines button, and that attention was highest around the Quick Access and Monthly Medicines sections. Session recordings let us see how visitors moved through the pages.
 
 Our design review also found points to improve: the main button colour is not consistent (blue and green), the delivery fee appears only at checkout, and the Place Order button stays disabled until a prescription is verified. We would fix these in the next version and test again with more users.
-
-## Repository Structure
-
-```
-README.md
-```
-
-Add the other deliverables (Figma export, screenshots, reports) in the folders your instructor asks for.
